@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-HI I'm Luca, a Computer Scientist with a passion for ML and CyberSecurity.
+Hi, I'm Luca, a Computer Scientist who likes working on challenging projects, with a focus on Machine Learning
 
-- 🏫 I’m currently studying Engineering of Computing Systems at Politecnico di Milano.
-- 👯 Always happy to collaborate on dope/impactful projects
+- 🎓 Currently pursuing a Master's degree in *Computer Science and Engineering* at Politecnico di Milano.
+- ⭐ Passionate about software development, AI, and solving real-world problems through technology.
 
 
 <!--
@@ -24,13 +24,10 @@ Here are some ideas to get you started:
 -->
 
 ## Stats
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=Lp1807&theme=dark)
+<!--![image](https://github-readme-stats.vercel.app/api/top-langs/?username=Lp1807&theme=dark -->
 ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lp1807&theme=dark)
 
 ## Social
 [![Linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=onedark)](https://www.linkedin.com/in/lucapagano-/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100004522155673)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luca.pagano1807@gmail.com)
-
-
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/Lp1807/)
